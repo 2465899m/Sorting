@@ -1,1 +1,2 @@
 # Sorting
+This is the program developed for the module Algorithms and Data Structures, there are various sorting algorithms such as quick sort using different partitioning schemes such as the right most element and the median of three. There is also an implementation of quicksort implemented along with insertion sort,3 way quicksort, and to analyse the time they take to sort a data set, thee are couple of java files that can be used to analyze the sorting techniques.  
